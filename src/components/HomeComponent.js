@@ -1,4 +1,5 @@
 import React from 'react';
+import team from '/assets/images/team.png';
 import ControlledCarousel from "./CarouselComponent";
 import {
     Card, CardImg, CardDeck, CardBody,
@@ -19,7 +20,7 @@ function Home() {
             </div>
             <div className="row row-content">
                     <div className="col-12 col-md-3 mt-5 ">
-                        <img src='/assets/images/team.png' height="auto" width="auto" alt="team"/>
+                        <img src=team height="auto" width="auto" alt="team"/>
                     </div>
                 <div className="col-12 col-md-8 mt-5 ">
                     <h3>Our Team</h3>
