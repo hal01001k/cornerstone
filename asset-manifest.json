@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cornerstone/static/css/main.ffbfdec3.chunk.css",
+    "main.js": "/cornerstone/static/js/main.2f3ffee7.chunk.js",
+    "main.js.map": "/cornerstone/static/js/main.2f3ffee7.chunk.js.map",
+    "runtime-main.js": "/cornerstone/static/js/runtime-main.2fff7642.js",
+    "runtime-main.js.map": "/cornerstone/static/js/runtime-main.2fff7642.js.map",
+    "static/css/2.3abd9552.chunk.css": "/cornerstone/static/css/2.3abd9552.chunk.css",
+    "static/js/2.652b8c6a.chunk.js": "/cornerstone/static/js/2.652b8c6a.chunk.js",
+    "static/js/2.652b8c6a.chunk.js.map": "/cornerstone/static/js/2.652b8c6a.chunk.js.map",
+    "index.html": "/cornerstone/index.html",
+    "precache-manifest.3a239d15442e4963b4c1cfaa2e2e0169.js": "/cornerstone/precache-manifest.3a239d15442e4963b4c1cfaa2e2e0169.js",
+    "service-worker.js": "/cornerstone/service-worker.js",
+    "static/css/2.3abd9552.chunk.css.map": "/cornerstone/static/css/2.3abd9552.chunk.css.map",
+    "static/css/main.ffbfdec3.chunk.css.map": "/cornerstone/static/css/main.ffbfdec3.chunk.css.map",
+    "static/js/2.652b8c6a.chunk.js.LICENSE.txt": "/cornerstone/static/js/2.652b8c6a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/cornerstone/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fff7642.js",
+    "static/css/2.3abd9552.chunk.css",
+    "static/js/2.652b8c6a.chunk.js",
+    "static/css/main.ffbfdec3.chunk.css",
+    "static/js/main.2f3ffee7.chunk.js"
+  ]
+}
