@@ -1,5 +1,5 @@
 import React from 'react';
-import team from '/assets/images/team.png';
+import team from './assets/images/team.png';
 import ControlledCarousel from "./CarouselComponent";
 import {
     Card, CardImg, CardDeck, CardBody,
