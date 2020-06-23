@@ -19,7 +19,7 @@ function Home() {
             </div>
             <div className="row row-content">
                     <div className="col-12 col-md-3 mt-5 ">
-                        <img src='./assets/images/team.png' alt="team"/>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsnahOa5AXnHcNLaEaPsE5h42H1zXc8eO27rnLG3jJRW-Td45c&usqp=CAU" alt="team"/>
                     </div>
                 <div className="col-12 col-md-8 mt-5 ">
                     <h3>Our Team</h3>

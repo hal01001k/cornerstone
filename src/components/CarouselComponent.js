@@ -6,8 +6,8 @@ function ControlledCarousel() {
         <Carousel>
             <Carousel.Item>
                 <img
-                    className="w-100 h-100"
-                    src="assets/images/interior.jpg"
+                    className="w-100 h-110"
+                    src="https://inhabitat.com/wp-content/blogs.dir/1/files/2010/09/Dwell-Turkell-Lindal-Homes-3.jpg"
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -18,7 +18,7 @@ function ControlledCarousel() {
             <Carousel.Item>
                 <img
                     className="w-100 h-100 "
-                    src="assets/images/int2.jpg"
+                    src="http://xlinedesignstudio.com/wp-content/uploads/2017/02/web1-800x400.jpg"
                     alt="Third slide"
                 />
                 <Carousel.Caption>
@@ -28,10 +28,8 @@ function ControlledCarousel() {
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    className="h-100 w-100"
-                    src="assets/images/int3.jpg"
-                    alt="Third slide"
-                />
+                    className="h-200 w-100"
+                    src="https://www.johndickandson.co.uk/wp-content/uploads/2017/08/zoffany_2017_damask_01_er-824x1024.jpg"/>
                 <Carousel.Caption>
                     <h3><strong>Vibrant Color</strong></h3>
                     <p>Hi you are welcome here! Please enjoy your stay.</p>
