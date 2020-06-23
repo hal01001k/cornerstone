@@ -46,7 +46,7 @@ function Home() {
                 <div className="row">
                     <div className="col-12 col-md-5 offset-md-1 mt-5">
                         <Card style={{width: '18rem', height: '20rem'}}>
-                            <CardImg src='assets/images/arch.png' alt="arch"/>
+                            <CardImg src="https://img.pngio.com/1900x1342-91-architecture-design-sketches-png-architecture-png-1900_1342.jpg" alt="arch"/>
                             <CardBody>
                                 <CardTitle>Architecture</CardTitle>
                                 <CardSubtitle>Map your Dream house.</CardSubtitle>
@@ -56,7 +56,7 @@ function Home() {
                     </div>
                     <div className="col-12 col-md-5 offset-md-1 mt-5">
                         <Card style={{width: '18rem', height: '20rem'}}>
-                            <CardImg src="assets/images/const.png" alt="const"/>
+                            <CardImg src="https://www.pikpng.com/pngl/b/63-630024_crane-clipart-cartoon-construction-construction-site-vector-png.png" alt="const"/>
                             <CardBody>
                                 <CardTitle>Construction</CardTitle>
                                 <CardSubtitle>Build your Dream house.</CardSubtitle>
@@ -67,7 +67,7 @@ function Home() {
                 <div className="row">
                     <div className="col-12 col-md-5 offset-md-1 mt-5">
                         <Card style={{width: '18rem', height: '20rem'}}>
-                            <CardImg src="assets/images/int.png" alt="int"/>
+                            <CardImg src="https://cdn.dribbble.com/users/949592/screenshots/3580546/day-29-up.png" alt="int"/>
                             <CardBody>
                                 <CardTitle>Interior Design</CardTitle>
                                 <CardSubtitle>Eye pleasing Interior</CardSubtitle>
@@ -76,7 +76,7 @@ function Home() {
                     </div>
                     <div className="col-12 col-md-5 offset-md-1 mt-5">
                         <Card style={{width: '18rem', height: '20rem'}}>
-                            <CardImg src="assets/images/prop.png" alt="prop"/>
+                            <CardImg src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShiswfzXwZPqGW73zFjf-XAhQwXfFs_yaa3w&usqp=CAU" alt="prop"/>
                             <CardBody>
                                 <CardTitle>Property Dealing</CardTitle>
                                 <CardSubtitle>Help you buy Desirable property.</CardSubtitle>
@@ -100,21 +100,21 @@ function Home() {
                 <div className="col-12">
                     <CardDeck className="pad">
                         <Card style={{width: '18rem'}}>
-                            <CardImg src="assets/images/stress.png" alt="omg"/>
+                            <CardImg src="https://c.housingcdn.com/s/assets/yourLife.b08ad6e8.png" alt="omg"/>
                             <CardBody>
                                 <CardTitle>Ease of Service</CardTitle>
                                 <CardSubtitle>Reduced Procedure</CardSubtitle>
                             </CardBody>
                         </Card>
                         <Card style={{width: '18rem'}}>
-                            <CardImg src="assets/images/yay.png" alt="omg"/>
+                            <CardImg src="https://c.housingcdn.com/s/assets/stressFreeSearch.18fd0717.png" alt="omg"/>
                             <CardBody>
                                 <CardTitle>Stress Free</CardTitle>
                                 <CardSubtitle>Free from Everything</CardSubtitle>
                             </CardBody>
                         </Card>
                         <Card style={{width: '18rem'}}>
-                            <CardImg src="assets/images/omg.png" alt="omg"/>
+                            <CardImg  src="https://c.housingcdn.com/s/assets/findYourMatch.6b1e45d3.png" alt="omg"/>
                             <CardBody>
                                 <CardTitle>Your Mannat</CardTitle>
                                 <CardSubtitle>Guaranteed Desired Home</CardSubtitle>

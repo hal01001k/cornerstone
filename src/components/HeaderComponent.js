@@ -25,7 +25,8 @@ class Header extends Component {
                 <Navbar className="fixed-top" dark expand="md">
                     <div className="container">
                         <NavbarToggler onClick={this.toggleNav} />
-                        <NavbarBrand className="mr-auto" href="#"><img src='assets/images/logo.png' class="d-inline-block align-top" height="30" width="30" alt='Pineapple'/></NavbarBrand>
+                        <NavbarBrand className="mr-auto" href="#">
+                            <img src="https://png2.cleanpng.com/sh/00b64c1964b24acb997b5473ac60e274/L0KzQYm3VMA6N6drfZH0aYP2gLBuTfxwb5Cye595cnBqgrL0jfVzNZ1qjOZucj3mPYbogBJjapJrUdg6NUC5PoG6VcY2OGE8Sac7M0OzQYOCVcY2OWcziNDw/kisspng-logo-c-programmer-letter-c-5acbbbaf9f1506.0356500715233012956516.png" class="d-inline-block align-top" height="30" width="30" alt='Pineapple'/></NavbarBrand>
                         <Collapse isOpen={this.state.isNavOpen} navbar>
                             <Nav navbar>
                                 <NavItem>

@@ -22,7 +22,7 @@ function About() {
                     <p className="txt text-justify">The company traces its humble beginnings to <em>The Google Meet</em>, a temporary service used during the bleak time of COVID-19 pandemic.</p>
                 </div>
                 <div className="col-12 col-md-5 offset-md-1">
-                   <img src="assets/images/logo3.png" height="300px" alt="logo"/>
+                   <img src="https://i.dlpng.com/static/png/6712733_preview.png" height="300px" alt="logo"/>
                 </div>
                 <div className="col-12">
                     <hr />
