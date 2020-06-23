@@ -46,7 +46,7 @@ function Home() {
                 <div className="row">
                     <div className="col-12 col-md-5 offset-md-1 mt-5">
                         <Card style={{width: '18rem', height: '20rem'}}>
-                            <CardImg src="assets/images/arch.png" alt="arch"/>
+                            <CardImg src='assets/images/arch.png' alt="arch"/>
                             <CardBody>
                                 <CardTitle>Architecture</CardTitle>
                                 <CardSubtitle>Map your Dream house.</CardSubtitle>
